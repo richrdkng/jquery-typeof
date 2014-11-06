@@ -1,0 +1,42 @@
+{
+  "name": "jquery-typeof",
+  "description": "A jQuery plugin to fix typeof inconsistencies in JavaScript. AMD (Require.js) and browser compatible.",
+  "homepage": "https://github.com/richard-kng/jquery-typeof",
+  "repository": "git://github.com/richard-kng/jquery-typeof.git",
+  "keywords": [
+    "jquery",
+    "exists",
+    "plugin",
+    "jquery-typeof",
+    "jquery.typeof",
+    "javascript",
+    "js",
+    "amd",
+    "requirejs",
+    "production",
+    "tool"
+  ],
+  "authors": [
+    "Richard KnG <richrdkng@gmail.com> (https://github.com/richard-kng)"
+  ],
+  "main": "jquery.exists",
+  "ignore": [
+    "lib",
+    "node_modules",
+    "src",
+    "test",
+    "*.yml",
+    ".gitignore",
+    ".gitattributes",
+    ".jshintrc",
+    "Gruntfile*",
+    "*.json"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {},
+  "license": [
+    "MIT"
+  ]
+}
