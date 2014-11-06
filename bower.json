@@ -5,7 +5,7 @@
   "repository": "git://github.com/richard-kng/jquery-typeof.git",
   "keywords": [
     "jquery",
-    "exists",
+    "typeof",
     "plugin",
     "jquery-typeof",
     "jquery.typeof",
@@ -14,12 +14,13 @@
     "amd",
     "requirejs",
     "production",
-    "tool"
+    "tool",
+    "fix"
   ],
   "authors": [
     "Richard KnG <richrdkng@gmail.com> (https://github.com/richard-kng)"
   ],
-  "main": "jquery.exists",
+  "main": "jquery.typeof",
   "ignore": [
     "lib",
     "node_modules",
