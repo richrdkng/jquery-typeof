@@ -1,4 +1,4 @@
-jQuery-typeof [![Build Status](https://travis-ci.org/richard-kng/jquery-typeof.svg?branch=master)](https://travis-ci.org/richard-kng/jquery-typeof)
+jQuery-typeof [![Build Status](https://travis-ci.org/richard-kng/jquery-typeof.svg?branch=master)](https://travis-ci.org/richard-kng/jquery-typeof) [![Greenkeeper badge](https://badges.greenkeeper.io/richrdkng/jquery-typeof.svg)](https://greenkeeper.io/)
 =============
 __A jQuery plugin to fix typeof inconsistencies in JavaScript. AMD (Require.js) and browser compatible.__
 
